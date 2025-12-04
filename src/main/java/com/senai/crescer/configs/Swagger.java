@@ -10,7 +10,7 @@ import io.swagger.v3.oas.annotations.info.Info;
     info = @Info(
         title = "Crescer - loja infantil",
         version = "1.0",
-        description = "Giovanna Felisardo - 2 Info B"
+        description = "Giovanna Fernandes Felisardo - 2 Info B"
     )
 )
 public class Swagger {

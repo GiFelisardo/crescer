@@ -4,7 +4,7 @@ Projeto de loja de brinquedos infantis.
 A Crescer é um projeto desenvolvido com o objetivo de simular uma plataforma moderna e intuitiva para a venda de brinquedos infantis. A proposta é oferecer uma experiência amigável e divertida, permitindo que usuários naveguem, explorem e adquiram brinquedos de forma prática e segura.
 Além da interface voltada para o público infantil e seus responsáveis, o sistema conta com backend estruturado, documentação automatizada e ferramentas que garantem integração e facilidade no desenvolvimento.
 
-## Funcionalidades:
+### Funcionalidades:
 1. Catálogo de Brinquedos: Lista com todos os brinquedos disponíveis com descrição, preço e categoria.
 2. Gerenciamento de Usuário: Cadastro, login e edição de informações do usuário.
 3. Documentação da API: Documentação automática via Swagger.
@@ -19,9 +19,9 @@ Além da interface voltada para o público infantil e seus responsáveis, o sist
    6. Spring Boot
    7. Docker & Dockerfile
 
-## Deploy: 
+### Deploy: 
 https://crescer-d2x4.onrender.com/aula/swagger-ui/index.html
 
-## Desenvolvido por:
+### Desenvolvido por:
 Giovanna Fernandes Felisardo
 2 Info B
